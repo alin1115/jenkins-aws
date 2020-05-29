@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-05-29 20:00:50.116 UTC</timestamp>
+  <md5sum>03129774878146a60179a85954a1b0b9</md5sum>
+  <fileName>Credential id=AWS_ACCESS_KEY name=AWS_ACCESS_KEY</fileName>
+  <usages>
+    <entry>
+      <string>backup-to-aws</string>
+      <ranges>1-16</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
